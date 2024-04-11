@@ -3,13 +3,10 @@
 	$idade = 21;
 	$altura = 1.67;
 	$sexo = "F";
-
 	$maiorA = 1.80;
 	$menorA = 1.50;
-
 	$maiorI = 21;
 	$menorI = 15;
-
 	$soma = 0;
 
 	for($i=0; $i<50; $i++){
